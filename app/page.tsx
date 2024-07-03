@@ -5,6 +5,7 @@ import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
 export default function Page() {
+  
   return (
     // These are Tailwind classes:
     <main className="flex min-h-screen flex-col p-6">   
